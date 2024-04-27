@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595869937392",
+    "project_id": "smit-practicle",
+    "storage_bucket": "smit-practicle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595869937392:android:f4e18f73cffb5c07235c35",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYpD8gBjsDQdyMBdbuov7sTl2_MolnA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
